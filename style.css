@@ -229,8 +229,8 @@ input[type="radio"]{
         font-size: 50px;
     }
 
-    .quote .level{
-        font-size: 7px;
+    .quote, .level{
+        font-size: 10px;
     }
 
     #easy,#medium,#difficult{
