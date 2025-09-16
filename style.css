@@ -13,7 +13,7 @@ height: 100%;
     font-size: 100px;
     color:rgb(245, 241, 23);
     display: block;
-    padding-top:40px;
+    padding-top:30px;
 }
 
 .logo{
@@ -74,7 +74,7 @@ height: 100%;
 
 #easy, #medium,#difficult{
     width:80vw;
-    margin:200px auto 0px auto;
+    margin:50px auto 0px auto;
     font-size:25px;
     cursor: pointer;
     display:none;
@@ -230,11 +230,11 @@ input[type="radio"]{
     }
 
     .quote .level{
-        font-size: 15px;
+        font-size: 12px;
     }
 
     #easy,#medium,#difficult{
-        font-size: 15px;
+        font-size: 18px;
     }
    
     #easy li,#medium li,#difficult li{
@@ -242,7 +242,7 @@ input[type="radio"]{
     }
 
     .qn > label{
-    font-size:15px;
+    font-size:18px;
     padding:25px 15px ;
     }
 
