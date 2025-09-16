@@ -171,7 +171,6 @@ function restart(event){
         radio.checked=false;
     })
     submit.disabled=false;
-  
 }
 
 
