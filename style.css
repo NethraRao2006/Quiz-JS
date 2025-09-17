@@ -108,7 +108,7 @@ height: 100%;
     height: auto;
     width:auto;
     background: #EDDD53;
-    background: linear-gradient(90deg, rgba(237, 221, 83, 1) 0%, rgba(87, 199, 133, 1) 56%, rgba(98, 169, 196, 1) 100%);
+    background: linear-gradient(90deg, rgb(228, 216, 114) 0%, rgba(87, 199, 133, 1) 56%, rgb(74, 192, 176) 100%);
     box-shadow: 15px 15px  15px black;
     color:black;
 }

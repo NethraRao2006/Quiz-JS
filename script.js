@@ -25,7 +25,7 @@ const correctAns3=["A","B","B","C","B","A","A","B","B","A","B","C","C","D","A","
 
 easy.addEventListener("click",show1)
 function show1(event){
-    
+
  if(event.target.value==="EASY");
  {
  easyPage.style.display="block";
