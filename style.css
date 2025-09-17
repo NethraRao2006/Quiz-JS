@@ -105,7 +105,9 @@ height: 100%;
     margin-top: 30px;
     height: auto;
     width:auto;
-    background-color: black;
+    background: #EDDD53;
+    background: linear-gradient(90deg, rgba(237, 221, 83, 1) 0%, rgba(87, 199, 133, 1) 56%, rgba(98, 169, 196, 1) 100%);
+    box-shadow: 15px 15px  15px black;
     color: white;
 }
 
@@ -257,8 +259,8 @@ input[type="radio"]{
     }
 
     input[type="radio"]{
-    width:10px;
-    height: 10px;
+    width:15px;
+    height: 15px;
     border:2px solid white;
     }
     .tick{
