@@ -163,7 +163,7 @@ function restart(event){
         let tick=document.querySelector(".tick");
         if(tick){
        tick.remove();
-       a.style.color="white";
+       a.style.color="black";
         }
     })
     let radios=document.querySelectorAll("input[type='radio']");
